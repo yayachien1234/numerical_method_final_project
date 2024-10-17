@@ -9,7 +9,7 @@ import openai
 import pandas as pd
 
 # ----------這邊要輸入API KEY----------#
-openai.api_key="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"
+openai.api_key=""
 
 #----------初始化，並且指示接下來他要蒐集使用者什麼資訊----------#
 messages = []
